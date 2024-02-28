@@ -1,0 +1,11 @@
+D:\Claudine Margareth\C#\CalculatorApplication\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Claudine Margareth\C#\CalculatorApplication\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Claudine Margareth\C#\CalculatorApplication\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Claudine Margareth\C#\CalculatorApplication\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Claudine Margareth\C#\CalculatorApplication\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Claudine Margareth\C#\CalculatorApplication\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Claudine Margareth\C#\CalculatorApplication\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Claudine Margareth\C#\CalculatorApplication\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Claudine Margareth\C#\CalculatorApplication\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Claudine Margareth\C#\CalculatorApplication\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Claudine Margareth\C#\CalculatorApplication\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
